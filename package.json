@@ -1,0 +1,24 @@
+{
+  "name": "hour-logger",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.5.1",
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "eslint": "^7.4.0",
+    "eslint-plugin-vue": "^7.0.0-alpha.10",
+    "sass": "^1.26.10",
+    "vite": "^1.0.0-rc.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "plugin:vue/vue3-essential"
+    ]
+  }
+}
